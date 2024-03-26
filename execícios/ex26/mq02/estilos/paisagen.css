@@ -1,0 +1,8 @@
+@charset "UTF-8";
+
+/* Apareilho deitado (landscape) */
+
+body{
+    background-image: url(../imagen/cev-landscape.jpg);
+    background-position: center bottom;
+}
